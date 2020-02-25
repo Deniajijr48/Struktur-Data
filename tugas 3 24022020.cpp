@@ -114,4 +114,5 @@ int main()
     cout<<"Kode Pembeli     : "<<input_kode_pembeli<<endl;
 	cout<<"Nama Pembeli     : "<<p[index_kode_pembeli].nama<<endl;
 	cout<<"Status Pembeli   : "<<p[index_kode_pembeli].status<<endl;
-© 2020 GitHub, Inc.
+	}
+Â© 2020 GitHub, Inc.
