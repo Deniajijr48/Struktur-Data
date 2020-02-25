@@ -99,4 +99,3 @@ int main()
     } while(lagi == 'y');
     return 0;
 }
-© 2020 GitHub, I
